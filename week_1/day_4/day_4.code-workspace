@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "lab-numpy-en",
+			"path": "lab-numpy-en"
+		},
+		{
+			"name": "lab-pandas-en",
+			"path": "lab-pandas-en"
+		},
+		{
+			"name": "lab-pandas-merge-en",
+			"path": "lab-pandas-merge-en"
+		}
+	],
+	"settings": {}
+}
